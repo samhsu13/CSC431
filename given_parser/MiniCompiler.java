@@ -35,7 +35,7 @@ public class MiniCompiler
             new MiniToAstProgramVisitor();
          ast.Program program = programVisitor.visit(tree);
 
-         // call Validation function here
+         // call Validation function here HELLO
       }
    }
 
